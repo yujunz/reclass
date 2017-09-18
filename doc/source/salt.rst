@@ -43,7 +43,7 @@ following steps have already been prepared.
 
    It's handy to symlink |reclass|' Salt adapter itself to that directory::
 
-      $ ln -s /usr/share/reclass/reclass-salt /srv/salt/states/reclass
+      $ ln -s /usr/share/reclass/reclass-salt /srv/salt/reclass
 
    As you can now just inspect the data right there from the command line::
 
